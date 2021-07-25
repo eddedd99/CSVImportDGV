@@ -1,0 +1,10 @@
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\bin\Debug\CSVImportDGV.exe.config
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\bin\Debug\CSVImportDGV.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\bin\Debug\CSVImportDGV.pdb
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.csprojResolveAssemblyReference.cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.Properties.Resources.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.csproj.GenerateResource.Cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.pdb
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.frmImportarCSV.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\CSVImportDGV\CSVImportDGV\obj\Debug\CSVImportDGV.csproj.ResolveComReference.cache
